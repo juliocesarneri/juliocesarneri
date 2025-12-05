@@ -39,8 +39,20 @@ Me chamo **Júlio César Neri**, tenho 21 anos e sou natural do Rio de Janeiro. 
     title="PHP"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://github.com/user-attachments/assets/74ee0b64-8229-4c43-8d16-df128807e633"
 />
+
+<img
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://github.com/user-attachments/assets/ad1cee8a-bf4f-4172-b859-aecdd250859c" 
+/>
+
+
+
 
 <br/>
 <br/>
